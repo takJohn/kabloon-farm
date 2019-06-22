@@ -81,7 +81,7 @@ _TIPS: use the windmill as your reference point when looking up and taking aim. 
 - Add glows to the gun and ammo pack to indicate that they're interactive items.
 - Allow players to move up between the floors of the windmill, perhaps even allowing them to break the glass and shoot out the windows.
 - Include a top down mini map that shows which sweetcorn patch is in danger as sometimes it's not clear which patch was destroyed.
-- Add a combo system so that the more eggs you destroy without your crops taking damage, the more bonus points you receive.
+- Add a combo system so that the more eggs you destroy without your crops taking damage, the more bonus points you'll receive.
 - A cooperative mode could be interesting.
 
 ## Copyright info
