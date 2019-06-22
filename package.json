@@ -1,7 +1,7 @@
 {
   "name": "kabloon-farm",
   "version": "1.0.0",
-  "description": "A game created for the decentraland hackathon",
+  "description": "A game made using Decentraland's SDK6.1.0",
   "scripts": {
     "start": "dcl start",
     "build": "build-ecs",
