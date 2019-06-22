@@ -59,7 +59,7 @@ Aim and shoot using your mouse, clicking either mouse button will fire the gun. 
 6. Note that it will only allow you to pick up the ammo box when you're not fully stocked and each reload gives you six rounds.
 7. The game continues until any single sweetcorn patch is destroyed.
 8. A sweetcorn patch has three lives so to speak and you can see how many lives it has remaining by the number of sweetcorns that's left.
-9. Game difficulty increases by ten percent each time a target score is reached, which starts at 250pts and doubles each time the threshold is met.
+9. The falling speed of the eggs increases by ten percent each time a target score is reached, which starts at 250pts and doubles each time the threshold is met.
 10. The windmill's blade increases in speed as the game difficulty increases.
 11. At the end of the game, your rifle will return back to the shelf and the sweetcorns will regrow again ready for the next game.
 12. Pick up the rifle to play again.
