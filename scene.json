@@ -1,0 +1,28 @@
+{
+  "display": {
+    "title": "kabloon-farm",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Tak-John Cheung",
+    "email": "takjohn@pm.me"
+  },
+  "owner": "",
+  "scene": {
+    "parcels": ["0,0", "0,1", "1,0", "1,1"],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}

@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for maya 2018 v1.2.31"
+  },
+  "scene": 0,
+  "scenes": [{ "nodes": [0], "extensions": {} }],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [0.0, 0.0, 0.0],
+      "rotation": [0.0, 0.0, 0.0, 1.0],
+      "scale": [1.0, 1.0, 1.0],
+      "name": "balloonCyanEnvelope"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "balloonCyanEnvelope"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 2880,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1021,
+      "max": [3.44746971, 15.5918436, 3.44784522],
+      "min": [-3.44788933, 6.248213, -3.44784522],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12252,
+      "componentType": 5126,
+      "count": 1021,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1021,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1021,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    { "buffer": 0, "byteLength": 5760, "name": "bufferViewScalar" },
+    {
+      "buffer": 0,
+      "byteOffset": 5760,
+      "byteLength": 24504,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 30264,
+      "byteLength": 16336,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46600,
+      "byteLength": 8168,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    }
+  ],
+  "buffers": [{ "uri": "balloonCyan.bin", "byteLength": 54768 }],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1.0, 1.0, 1.0, 1.0],
+        "baseColorTexture": { "index": 1, "texCoord": 0 },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.425
+      },
+      "normalTexture": { "index": 0, "texCoord": 0 },
+      "emissiveFactor": [0.0, 0.023054583, 0.025],
+      "alphaMode": "OPAQUE",
+      "name": "balloonCyan_MTL",
+      "doubleSided": true
+    }
+  ],
+  "textures": [
+    { "sampler": 0, "source": 0, "name": "balloon-normal.jpg" },
+    { "sampler": 1, "source": 1, "name": "balloon-cyan-color.jpg" }
+  ],
+  "images": [
+    { "uri": "balloon-normal.jpg" },
+    { "uri": "balloon-cyan-color.jpg" }
+  ],
+  "samplers": [
+    { "magFilter": 9729, "minFilter": 9987, "wrapS": 10497, "wrapT": 10497 },
+    { "magFilter": 9729, "minFilter": 9987, "wrapS": 10497, "wrapT": 10497 }
+  ]
+}

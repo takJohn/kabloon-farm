@@ -1,0 +1,308 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for maya 2018 v1.2.31"
+  },
+  "scene": 0,
+  "scenes": [{ "nodes": [0], "extensions": {} }],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [0.0, 0.0, 0.0],
+      "rotation": [0.0, 0.0, 0.0, 1.0],
+      "scale": [1.0, 1.0, 1.0],
+      "name": "balloonBasket"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 5,
+          "mode": 4,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 11,
+            "NORMAL": 12,
+            "TANGENT": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 10,
+          "mode": 4,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TANGENT": 18,
+            "TEXCOORD_0": 19
+          },
+          "indices": 15,
+          "mode": 4,
+          "material": 3
+        }
+      ],
+      "name": "balloonBasket"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 636,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 263,
+      "max": [0.9827451, 4.942282, 0.9827451],
+      "min": [-0.9827451, 4.34253645, -0.9827451],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3156,
+      "componentType": 5126,
+      "count": 263,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 263,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 263,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1272,
+      "componentType": 5123,
+      "count": 900,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6312,
+      "componentType": 5126,
+      "count": 200,
+      "max": [1.088216, 2.20352125, 1.08652091],
+      "min": [-1.088216, -0.103239805, -1.08652091],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8712,
+      "componentType": 5126,
+      "count": 200,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4208,
+      "componentType": 5126,
+      "count": 200,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2104,
+      "componentType": 5126,
+      "count": 200,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3072,
+      "componentType": 5123,
+      "count": 192,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11112,
+      "componentType": 5126,
+      "count": 51,
+      "max": [1.0, 2.00000072, 1.0],
+      "min": [-1.0, 0.0, -1.0],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11724,
+      "componentType": 5126,
+      "count": 51,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7408,
+      "componentType": 5126,
+      "count": 51,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3704,
+      "componentType": 5126,
+      "count": 51,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3456,
+      "componentType": 5123,
+      "count": 912,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12336,
+      "componentType": 5126,
+      "count": 223,
+      "max": [1.23412824, 6.41960144, 1.23418367],
+      "min": [-1.23421681, 2.00000048, -1.233292],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15012,
+      "componentType": 5126,
+      "count": 223,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8224,
+      "componentType": 5126,
+      "count": 223,
+      "type": "VEC4",
+      "name": "accessorTangents"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4112,
+      "componentType": 5126,
+      "count": 223,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    { "buffer": 0, "byteLength": 5280, "name": "bufferViewScalar" },
+    {
+      "buffer": 0,
+      "byteOffset": 5280,
+      "byteLength": 17688,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22968,
+      "byteLength": 11792,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34760,
+      "byteLength": 5896,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    }
+  ],
+  "buffers": [{ "uri": "balloonBasket.bin", "byteLength": 40656 }],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.58968, 0.6890402, 0.702, 1.0],
+        "metallicFactor": 0.8131868,
+        "roughnessFactor": 0.55
+      },
+      "emissiveFactor": [0.0, 0.0, 0.0],
+      "alphaMode": "OPAQUE",
+      "name": "balloonMetal_MTL"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.15, 0.075, 0.0, 1.0],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.33
+      },
+      "emissiveFactor": [0.0, 0.0, 0.0],
+      "alphaMode": "OPAQUE",
+      "name": "basketBrown_MTL"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.643, 0.3215, 0.0, 1.0],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.55
+      },
+      "normalTexture": { "index": 0, "texCoord": 0 },
+      "emissiveFactor": [0.0, 0.0, 0.0],
+      "alphaMode": "OPAQUE",
+      "name": "basketWeave_MTL",
+      "doubleSided": true
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1.0, 0.730766654, 0.0, 1.0],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.425
+      },
+      "emissiveFactor": [0.025, 0.0125, 0.0],
+      "alphaMode": "OPAQUE",
+      "name": "balloonYellowPlain_MTL"
+    }
+  ],
+  "textures": [{ "sampler": 0, "source": 0, "name": "weave-normal.jpg" }],
+  "images": [{ "uri": "weave-normal.jpg" }],
+  "samplers": [
+    { "magFilter": 9729, "minFilter": 9987, "wrapS": 10497, "wrapT": 10497 }
+  ]
+}
