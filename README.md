@@ -58,7 +58,7 @@ Aim and shoot using your mouse, clicking either mouse button will fire the gun. 
 5. To reload the rifle, pick up the ammo box that's located at the centre of the room inside the windmill. The ammo box will automatically be picked up once you move over it.
 6. Note that it will only allow you to pick up the ammo box when you're not fully stocked and each reload gives you six rounds.
 7. The game continues until any single sweetcorn patch is destroyed.
-8. A sweetcorn patch has three lives so to speak and you can see how many lives it has remaining by the number of sweetcorns that's left in it.
+8. A sweetcorn patch has three lives so to speak and you can see how many lives it has remaining by the number of sweetcorns that's left on it.
 9. The falling speed of the eggs increases by ten percent each time a target score is reached, which starts at 250pts and doubles each time the threshold is met.
 10. The windmill's blade spins faster as the game difficulty increases.
 11. At the end of the game, your rifle will return back to the shelf and the sweetcorns will regrow again ready for the next game.
