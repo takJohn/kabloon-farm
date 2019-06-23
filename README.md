@@ -4,7 +4,8 @@ _A screenshot of kabloon-farm inside Decentraland._
 
 ![screenshot](https://github.com/takJohn/kabloon-farm/blob/master/screenshots/kabloon-farm-screen.jpg)
 
-Please feel free to explore the scene [here](https://kabloon-farm.now.sh/), which will take you to a version that has already been deployed. Alterantively you can run the scene locally by following the instructions below.
+Please feel free to explore the scene [here](
+kabloon-farm-babylon.now.sh), which will take you to a version that has already been deployed. Alterantively you can run the scene locally by following the instructions below.
 
 ## Description
 
