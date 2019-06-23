@@ -82,7 +82,9 @@ _TIPS: use the windmill as your reference point when looking up and taking aim. 
 - Allow players to move up between the floors of the windmill, perhaps even allowing them to break the glass and shoot out the windows.
 - Include a top down mini map that shows which sweetcorn patch is in danger as sometimes it's not clear which patch was destroyed.
 - Add a combo system so that the more eggs you destroy without your crops taking damage, the more bonus points you receive.
+- More weapons, perhaps even respawning a rocket launcher that can disable a balloon temporarily.
 - A cooperative mode could be interesting.
+- Start accepting mana payments to play the game. A smart contract can then be used to keep track of who holds the highest score and reward them with a share of the game's revenue over the course of a one month period.
 
 ## Copyright info
 
