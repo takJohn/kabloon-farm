@@ -5,7 +5,7 @@ import { increaseWindmillBladeSpeed } from "./windmill";
 /// NOTE: the game gets more difficult once a certain score threshold is exceeded
 /// --- Score System ---
 let totalScore = 0;
-let nextLevelScore = 250; // Score threshold before difficulty level increases
+let targetScore = 250; // Score threshold before difficulty level increases
 
 // Initiate event manager
 export const scoreEvents = new EventManager();
@@ -21,12 +21,13 @@ scoreEvents.addListener(ScoreUpdateEvent, null, ({ score }) => {
   totalScore += score;
   log("Total Score: " + totalScore);
 
-  if (totalScore > nextLevelScore) {
+  // Increase difficulty level once target has been reached
+  if (totalScore >= targetScore) {
     log("LEVEL UP!");
     increaseEggsSpeed();
     increaseWindmillBladeSpeed();
-    nextLevelScore = nextLevelScore * 2; // Double the score threshold after each level increase
-    log("Next Level: " + nextLevelScore);
+    targetScore = targetScore * 2; // Double the score threshold after each level increase
+    log("New Target Score: " + targetScore);
   }
 });
 
@@ -38,5 +39,5 @@ export const scorePopUpFlagGroup = engine.getComponentGroup(ScorePopUpFlag);
 // Reset scores and score threshold level back to their original values
 export function resetScore() {
   totalScore = 0;
-  nextLevelScore = 250;
+  targetScore = 250;
 }
