@@ -71,7 +71,7 @@ _TIPS: use the windmill as your reference point when looking up and taking aim. 
 
 - [Music](http://soundimage.org/) by Eric Matyas.
 - All sound effects are taken from [freesound.org](https://freesound.org/).
-- Portions of the project were taken from the [Mana Altar](https://github.com/cazala/mana-altar) scene, which was created by Juan Cazala and Martin Shibuya.
+- Portions of the project were taken from the [Mana Altar](https://github.com/cazala/mana-altar) scene created by Juan Cazala and Martin Shibuya.
 - Nico Earnshaw and the rest of the Decentraland team, you can find Nico's tutorials [here](https://decentraland.org/blog/tutorials).
 
 ## Future improvements
